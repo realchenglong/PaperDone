@@ -511,7 +511,7 @@ nav hr {
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
   transition: all .5s ease;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
   display: inline-block;
   line-height: 14px;
 }
